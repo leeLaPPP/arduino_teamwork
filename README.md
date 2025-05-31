@@ -21,9 +21,13 @@
 ## 📁 폴더 구조
 arduino_teamwork/
 ├── .vscode/ # VSCode 설정 폴더
+
 ├── arduino_Source_Code/ # 아두이노 스케치 코드
+
 ├── Aduiono_CSV_Data.py # 시리얼 데이터 수집 및 CSV 저장 파이썬 코드
+
 ├── data.csv # 센서 데이터 저장 CSV
+
 └── datachart.py # 시각화 파이썬 코드
 
 
