@@ -20,10 +20,6 @@ unsigned long nowSec = 0;
 unsigned long prevSec = 0;
 unsigned int interval_sec = 2;  // 측정 간격 (초)
 
-
-
-
-
 void setup() {
   Serial.begin(9600);
   dht.begin();
